@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+#title {
+  text-align: center;
+  background-color: lightblue;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Serif;
+  font-weight: bolder;
+  font-size: 40px;
+  margin-bottom: 10px;
+  border: 1px solid;
+}
+
+#paragraph {
+  text-align: left;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: "palatino linotype", "Book Antiqua", Palatino, Serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  color: rgb(47, 127, 153);
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.title {
+  color: rgb(131, 190, 209);
+}
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
